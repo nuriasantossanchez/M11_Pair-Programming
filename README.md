@@ -1,1 +1,1 @@
-M11_exercici-Pair-Programming
+M11_Pair-Programming
